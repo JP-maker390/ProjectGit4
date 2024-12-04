@@ -1,0 +1,6 @@
+Enter the string s with lowercase letters of the Portuguese alphabet: efg
+Enter the string t with lowercase letters of the Portuguese alphabet: hij
+Enter the move number k: 6
+Return ConcatRemove: Yes
+s before change: efg
+s after change : hij
